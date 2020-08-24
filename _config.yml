@@ -1,11 +1,11 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Megan Davies Original Art
+title: Original Art
 email: megan@mdavies.art
-brand: Megan Davies
+brand: MDavies
 headline: Original Artwork from Megan Davies
 description: > # this means to ignore newlines until "baseurl:"
-  New Site
+  MDavies Art
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mdavies.art" # the base hostname & protocol for your site
 copyright: All images and material on this site are copyright of Megan Davies. Content herein should not be reproduced without express written permission.
@@ -20,5 +20,5 @@ snapwidget: 247552
 email: megan@mdavies.art
 
 # Tracking
-googleAnalitycsID: UA-83933844-1
+#googleAnalitycsID: 
 
