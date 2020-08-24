@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   MDavies Art
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mdavies.art" # the base hostname & protocol for your site
-copyright: All images and material on this site are copyright of Megan Davies. Content herein should not be reproduced or redistributed without prior written permission.
+copyright: All images and material on this site are copyright of Megan Davies. Content herein should not be reproduced or redistributed without prior written consent.
 
 # Build settings
 markdown: kramdown
