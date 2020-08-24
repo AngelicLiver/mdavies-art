@@ -7,7 +7,7 @@ headline: Original Artwork from Megan Davies
 description: > # this means to ignore newlines until "baseurl:"
   New Site
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site
+url: "https://mdavies.art" # the base hostname & protocol for your site
 copyright: All images and material on this site are copyright to Megan Davies 2008-2016. Do not reproduce without written permission. Images may vary depending on monitor settings.
 
 # Build settings
